@@ -7,8 +7,9 @@ easily be extended and adapted for other card games written in Haskell.
 ## Gameplay
 
 The board prints using special characters to create card shapes and escape sfor
-full functionalityequences to color the cards. Here's what a new game looks like
-without color:
+full functionalityequences to color the cards. Here's what a new game looks
+like:
+
 ```text
            W                   F1        F2        F3        F4
 ┌┌─────┐  ┌─────┐             ┌─────┐   ┌─────┐   ┌─────┐   ┌─────┐
